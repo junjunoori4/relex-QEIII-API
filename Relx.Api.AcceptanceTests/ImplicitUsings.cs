@@ -1,0 +1,10 @@
+﻿global using NUnit.Framework;
+global using BoDi;
+global using Microsoft.Extensions.Configuration;
+global using TechTalk.SpecFlow;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Linq;
+global using TechTalk.SpecFlow.Assist;
+global using System.Text;
+global using Relx.Api.AcceptanceTests.StepDefinitions;
+global using Microsoft.AspNetCore.WebUtilities;
