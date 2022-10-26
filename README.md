@@ -17,5 +17,5 @@ In the Menu,
 1. Launch Visual Studio
 2. Build the Solution
 3. Open Test Explorer from the Menu(Click on View -> Test Explorer)
-4. Right click on TodoApi.AcceptanceTests and click run from the menu dropdown
+4. Right click on Relx.Api.AcceptanceTests and click run from the menu dropdown
 5. All the Tests should run
